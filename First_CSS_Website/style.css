@@ -1,0 +1,42 @@
+* {
+    text-align: right;
+}
+
+body {
+ background-image: url(images/background.jpg);
+ background-size: cover;
+}
+
+h2, p {color: #AA4139;
+    text-align: center;
+    border: 5px solid rgba(255, 176, 170, 0.5);
+    cursor: pointer;
+}
+
+p {
+    color: green;
+
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    font-size: 20px;
+}
+
+.webtext {
+    border: 5px dashed green;
+}
+
+.active {
+    color: red;
+}
+
+#div1 {
+    background: rgba(0, 0, 255, 0.2);
+}
+
+#div2 {
+    background: rgba(255, 0, 0, 0.2);;
+}
+
